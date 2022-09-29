@@ -1,0 +1,20 @@
+{
+  "name": "my-portfolio-mobile-version",
+  "version": "1.0.0",
+  "description": "Designing mobile version",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Eugeneiyukhun/My-Portfolio-mobile-version.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Eugeneiyukhun/My-Portfolio-mobile-version/issues"
+  },
+  "homepage": "https://github.com/Eugeneiyukhun/My-Portfolio-mobile-version#readme"
+}
